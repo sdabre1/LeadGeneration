@@ -1,0 +1,64 @@
+SUJAY MANOJ DABRE
+Senior SDET | QA Tech Lead | API & Compliance Automation Specialist
+📍 Pune, India
+📧 sujay.dabre@gmail.com | 📞 +91-7620432101
+🔗 LinkedIn: www.linkedin.com/in/sujay-dabre
+________________________________________
+PROFESSIONAL SUMMARY
+Senior SDET with 10+ years of experience building scalable API and UI automation frameworks for large-scale SaaS and compliance-driven platforms. Deep expertise in pharma track-and-trace, global serialization regulations, and Duck Creek insurance platforms. Proven track record of enabling faster releases, improving test reliability, and mentoring QA engineers. Strong collaborator with Engineering, Product, and Architecture teams, bringing a quality-first mindset to system design and delivery.
+________________________________________
+CORE EXPERTISE
+•	API Automation: REST Assured, JSON Schema Validation, Postman, SOAPUI
+•	UI Automation: Selenium WebDriver, Playwright TestNG, Page Object Model
+•	Test Architecture: E2E Automation, Regression Strategy, Test Framework Design
+•	CI/CD & DevOps: Jenkins, Docker, Git, Maven
+•	Languages: Java, Python, JavaScript, TypeScript
+•	Cloud & Observability: AWS, Kubernetes, Kibana, Grafana
+•	Messaging & Data: Kafka (testing & validation)
+•	Domain Expertise: Pharma Track & Trace, GS1, DSCSA, DTTS, Country Compliance
+•	Methodologies: Agile (Scrum / SAFe), Waterfall
+________________________________________
+PROFESSIONAL EXPERIENCE
+TraceLink Inc —SDET 3
+Sep 2017 – Present | Pune, India
+Role Summary:
+Own end-to-end quality strategy for critical country-compliance and serialization microservices used by thousands of global pharma manufacturers.
+Key Contributions & Impact:
+•	Designed and automated 150+ REST APIs validating complex compliance payloads across US, Saudi Arabia, Indonesia, Kazakhstan, Brazil, and Russia, significantly reducing production defects.
+•	Built robust API automation frameworks using RestAssured + JSON Schema, ensuring strict regulatory validations and backward compatibility.
+•	Developed scalable Selenium UI automation for regulatory dashboards using TestNG and Page Object Model.
+•	Created E2E smoke and regression suites covering provisioning, commissioning, shipment, aggregation, and exception workflows.
+•	Validated compliance rules against DSCSA, DTTS, TTGIS,BELIGISI,BPOM,MDLP and GS1 barcode standards using data-driven automation.
+•	Partnered with backend engineers during design reviews to identify testability gaps early, improving release confidence.
+•	Authored Test Plans, Traceability Matrices, and Release Sign-offs for multi-region compliance launches.
+•	Reduced manual regression effort by ~80% through automation-first strategy.
+•	Mentored 10+ junior QA engineers, guiding them on automation design, CI integration, and debugging strategies.
+•	Acted as QA point-of-contact during audits, escalations, and production issues.
+Tech Stack: Java, RestAssured, Selenium, TestNG, Kafka, Jenkins, Docker, AWS, Kubernetes
+________________________________________
+L&T Infotech — Test Engineer
+Feb 2015 – Aug 2017 | Pune, India
+Role Summary:
+Delivered full-lifecycle QA for Duck Creek Policy, Billing, and Claims modules for insurance clients.
+Key Contributions & Impact:
+•	Collaborated closely with Product and Business teams to refine acceptance criteria and test scenarios.
+•	Designed parameterized automation suites for policy issuance, billing cycles, and claims processing.
+•	Implemented modular Selenium + TestNG frameworks integrated with Jenkins CI pipelines.
+•	Reduced regression execution time by 60% through optimized automation suites.
+•	Performed first-level defect triage, log analysis, and root cause investigation.
+
+Tech Stack: Java, Selenium, TestNG, Duck Creek TAC, Jenkins, TFS, TestRail
+________________________________________
+
+
+LEADERSHIP & OWNERSHIP
+•	Mentored junior QAs and new hires on automation best practices.
+•	Actively participated in sprint planning, backlog grooming, and release readiness reviews.
+•	Known for strong ownership, clear communication, and cross-team collaboration.
+________________________________________
+EDUCATION & CERTIFICATIONS
+•	B.Tech (Instrumentation Engineering) — Govt. College of Engineering, Amravati (2014)
+•	ISTQB Certified Tester
+•	SAFe Practitioner Certification
+
+

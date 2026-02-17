@@ -1,0 +1,6 @@
+pages\CreateLeadPage.class
+pages\DashboardPage.class
+tests\LeadUiTests.class
+pages\BaseTest.class
+pages\LoginPage.class
+tests\LeadApiTest.class
